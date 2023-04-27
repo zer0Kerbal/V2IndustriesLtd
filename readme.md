@@ -10,7 +10,7 @@ updated: 15 Apr 2023
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [![V2 Industries Limited (V2IL)][SHD:mod]][CURSFG:url]  
-[![KSP version][SHD:ksp]][KSP:url] [![License][LIC:shd]][LIC:url]  
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
 
 # [V2 Industries Limited (V2IL)][CURSFG:url]
@@ -52,7 +52,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
