@@ -8,7 +8,7 @@
 | github     | (https://github.com/zer0Kerbal/V2IndustriesLtd)                   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/V2IndustriesLtd)      |
 
-## Version 0.9.99.0-prerelease - `<On Final Approach>` edition
+## Version 0.9.99.0-prerelease - `<Remove the Safeties>` edition
 
 * Released
   * 26 Apr 2023
